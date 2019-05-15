@@ -20,7 +20,3 @@ node n to the goal node:
 ## Documentation
 The detailed report containing the description of the problem, search algorithms, heuristic functions and comparison of different
 search algorithms' performances can be found in '/doc/Report.pdf'.
-
-## Author
-* [@d_smorodinnikov](https://twitter.com/d_smorodinnikov) <br/>
-* [Dmitry Smorodinnikov's Blog](http://smorodinnikov.com/)<br/>
